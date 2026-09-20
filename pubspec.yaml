@@ -1,0 +1,13 @@
+name: shamikh_mvp
+description: Arabic voice-first task prototype
+publish_to: none
+version: 0.1.0+1
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  speech_to_text: ^7.0.0
+  shared_preferences: ^2.3.2
+flutter:
+  uses-material-design: true
